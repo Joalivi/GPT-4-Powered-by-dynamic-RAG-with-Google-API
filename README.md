@@ -27,7 +27,7 @@ This project enhances the capabilities of GPT-4 by integrating it with dynamic r
 - **Requests**: To send HTTP requests easily.
 
 ## Testing and Results
-The project was tested with multiple-choice questions from the Revalida examination, demonstrating a slight improvement in answer accuracy with RAG integration compared to baseline GPT-4.
+The project was tested with multiple-choice questions from the Revalida examination, demonstrating a slight improvement in answer accuracy with RAG integration compared to baseline GPT-4. However, it is important to note that these results do not hold statistical significance due to the small sample size of questions evaluated.
 
 ## Conclusion
 This project showcases the potential of combining GPT-4 with dynamic external data retrieval to enhance the accuracy and relevance of automated responses in practical scenarios.
