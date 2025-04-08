@@ -2,6 +2,8 @@
 
 ## Overview
 This project enhances the capabilities of GPT-4 by integrating it with dynamic retrieval-augmented generation (RAG) using real-time data fetched from the Google API. It aims to improve the contextual accuracy and depth of GPT-4's responses to complex queries by leveraging up-to-date web content.
+### Medium Deep Dive
+https://medium.com/@joalivijoao/enhancing-gpt-4-responses-with-dynamic-rag-and-google-api-a-deep-dive-aee59f266776
 
 ## Key Features
 - **Dynamic Question Reformulation**: Condenses user queries into precise search prompts.
